@@ -1,6 +1,6 @@
 # 微信小程序仿慕课网
 
-需要安装json-server吗，启动服务器：
+需要安装json-server，启动服务器：
 
 ```
 json-server --watch db.json
